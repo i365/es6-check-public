@@ -1,0 +1,19 @@
+{
+  "name": "es6-check",
+  "version": "1.0.0",
+  "description": "Detect whether there is ES6 (ES2015) new syntax in the js file.",
+  "main": "es6-check.js",
+  "homepage": "https://jstool.gitlab.io/es6-check/",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "cssnano": "4.1.11",
+    "fs-extra": "9.1.0",
+    "glob": "7.1.6",
+    "glob-promise": "4.1.0",
+    "parcel-bundler": "1.12.3",
+    "postcss": "7.0.32",
+    "shx": "0.3.4"
+  }
+}
